@@ -1,5 +1,3 @@
-# The Shuffle Editor (https://shuffle.dev)
-
 ## 1. Getting Started
 
 The project's source files are placed in ./src/ directory. 
